@@ -1,0 +1,8 @@
+HOTEL MANAGEMENT SYSTEM IN C PROGRAMMING
+
+LOGIN DETAILS:
+
+Username: bhavya
+Password: 12345
+
+
